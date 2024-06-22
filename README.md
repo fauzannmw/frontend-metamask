@@ -1,5 +1,13 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+### Technologies Used
+
+- [Next.js App Router](https://nextjs.org/docs/getting-started)
+- [Tailwind CSS](https://tailwindcss.com/)
+- [TypeScript](https://www.typescriptlang.org/)
+- [Axios](https://axios-http.com/)
+- [Coinmarketcap API](https://coinmarketcap.com/api/documentation/v1/) - API for fetching cryptocurrency data
+
 ## Getting Started
 
 First, run the development server:
